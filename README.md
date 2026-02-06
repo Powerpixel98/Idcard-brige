@@ -1,6 +1,5 @@
 Author
-greenarrov
-
+Powerpixel
 idcard_bridge
 
 idcard_bridge ist eine Erweiterung für jsfour-idcard, die es ermöglicht, Ausweise über ox_inventory zu benutzen und diese selbst anzusehen oder anderen Spielern zu zeigen – inklusive ox_lib Menü, Animation und Target-Auswahl.
