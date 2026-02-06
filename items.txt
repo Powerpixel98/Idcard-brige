@@ -1,0 +1,23 @@
+ox_inventory
+
+
+['idcard'] = {
+  label = 'Personalausweis',
+  weight = 100,
+  stack = true,
+  close = true,
+  consume = 0,
+  client = {
+    event = 'jsfour-idcard:useID'
+  }
+},
+['driverlicense'] = {
+  label = 'Führerschein',
+  weight = 100,
+  stack = true,
+  close = true,
+  consume = 0,
+  client = {
+    event = 'jsfour-idcard:useDL'
+  }
+},
